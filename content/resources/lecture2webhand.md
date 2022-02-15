@@ -2,8 +2,13 @@
 content_type: resource
 description: This file explians how to create procedural abstractions in a language,
   and how to use those abstractions to describe and capture computational processes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-001-structure-and-interpretation-of-computer-programs-spring-2005/c90ce1299aa99edff0283f60eb2d6786_lecture2webhand.pdf
+file: /media/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/c90ce1299aa99edff0283f60eb2d6786_lecture2webhand.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture2webhand.pdf
 uid: c90ce129-9aa9-9edf-f028-3f60eb2d6786

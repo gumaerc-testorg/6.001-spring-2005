@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '10B: Storage Allocation and Garbage Collection'
 uid: de43479d-33e3-54e7-ec32-84a110b13795
 video_files:
   archive_url: http://www.archive.org/download/MIT_Structure_of_Computer_Programs_1986/lec10b.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-001-structure-and-interpretation-of-computer-programs-spring-2005/893408d104db5f9d96ef7c90535e68c5_AbK4bZhUk48.vtt
+  video_captions_file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/893408d104db5f9d96ef7c90535e68c5_AbK4bZhUk48.vtt
   video_thumbnail_file: https://img.youtube.com/vi/AbK4bZhUk48/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-001-structure-and-interpretation-of-computer-programs-spring-2005/a087f7372af7b42f1252ba55ad781557_AbK4bZhUk48.pdf
+  video_transcript_file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/a087f7372af7b42f1252ba55ad781557_AbK4bZhUk48.pdf
 video_metadata:
   youtube_id: AbK4bZhUk48
 ---

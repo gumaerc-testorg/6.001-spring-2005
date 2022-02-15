@@ -2,8 +2,13 @@
 content_type: resource
 description: This file explains a model, that incorporates the substitution model
   as a piece of it, but also accounts for state, time, context and mutation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-001-structure-and-interpretation-of-computer-programs-spring-2005/33ed68689829e331091ec4c4ab7b7619_lecture15webhan.pdf
+file: /media/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/33ed68689829e331091ec4c4ab7b7619_lecture15webhan.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture15webhan.pdf
 uid: 33ed6868-9829-e331-091e-c4c4ab7b7619

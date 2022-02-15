@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2B: Compound Data'
 uid: de38c275-d043-c9a1-35da-a1024edec34b
 video_files:
   archive_url: http://www.archive.org/download/MIT_Structure_of_Computer_Programs_1986/lec2b.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-001-structure-and-interpretation-of-computer-programs-spring-2005/b46995d31ca355288e0677f72f419d79_DrFkf-T-6Co.vtt
+  video_captions_file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/b46995d31ca355288e0677f72f419d79_DrFkf-T-6Co.vtt
   video_thumbnail_file: https://img.youtube.com/vi/DrFkf-T-6Co/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-001-structure-and-interpretation-of-computer-programs-spring-2005/2fb7874c262b32016f3635d8143326ff_DrFkf-T-6Co.pdf
+  video_transcript_file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/2fb7874c262b32016f3635d8143326ff_DrFkf-T-6Co.pdf
 video_metadata:
   youtube_id: DrFkf-T-6Co
 ---

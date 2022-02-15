@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2A: Higher-order Procedures'
 uid: 11baf0a7-82fb-1ef4-a384-c3213648f09b
 video_files:
   archive_url: http://www.archive.org/download/MIT_Structure_of_Computer_Programs_1986/lec2a.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-001-structure-and-interpretation-of-computer-programs-spring-2005/50882de36f555880a6805947153ab2aa_eJeMOEiHv8c.vtt
+  video_captions_file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/50882de36f555880a6805947153ab2aa_eJeMOEiHv8c.vtt
   video_thumbnail_file: https://img.youtube.com/vi/eJeMOEiHv8c/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-001-structure-and-interpretation-of-computer-programs-spring-2005/32465b886efeca0f6edafaed2f0586c3_eJeMOEiHv8c.pdf
+  video_transcript_file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/32465b886efeca0f6edafaed2f0586c3_eJeMOEiHv8c.pdf
 video_metadata:
   youtube_id: eJeMOEiHv8c
 ---
