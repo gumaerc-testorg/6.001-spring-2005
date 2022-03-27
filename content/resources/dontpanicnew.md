@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 89775783-1f04-f40c-3f68-ee415df41c28
 resourcetype: Document
 title: dontpanicnew.pdf
 uid: ac045050-4ad7-79ea-4c30-aa92c459a932

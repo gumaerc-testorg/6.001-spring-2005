@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7651cc87-35de-317d-15a6-1e98f980b9a8
 resourcetype: Document
 title: lecture15webha2.pdf
 uid: 0a07bd9b-165a-5f2f-6f87-a84504e54952

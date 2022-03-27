@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3c92e5a8-3664-f839-2bbc-765d945469b2
 resourcetype: Other
 title: SICP_fulltext.zip
 uid: c975ee8b-62d0-1f5e-db5e-d01cd99e08d1

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: fd9eb5d2-e60b-8a30-9d8a-c8b226f1be64
 resourcetype: Document
 title: q2_solns_post.pdf
 uid: 9005b28d-9207-79e4-b16d-35cc96cb4a1a
