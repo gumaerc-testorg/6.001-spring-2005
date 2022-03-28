@@ -5,6 +5,7 @@ file: /media/courses/6-001-structure-and-interpretation-of-computer-programs-spr
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 50882de3-6f55-5880-a680-5947153ab2aa

@@ -5,6 +5,7 @@ file: /media/courses/6-001-structure-and-interpretation-of-computer-programs-spr
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: 16ee3e36-a574-a5d6-6e45-961725170e73

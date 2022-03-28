@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
+parent_uid: null
 title: Tools
 uid: 89775783-1f04-f40c-3f68-ee415df41c28
 ---
@@ -10,11 +11,11 @@ uid: 89775783-1f04-f40c-3f68-ee415df41c28
 Scheme Documentation
 --------------------
 
-Don't Panic: An Introductory Guide to the 6.001 Computer System ([PDF]({{< baseurl >}}/resources/dontpanicnew))
+Don't Panic: An Introductory Guide to the 6.001 Computer System ({{< resource_link ac045050-4ad7-79ea-4c30-aa92c459a932 "PDF" >}})
 
 This is the revised version of the manual for using Edwin and the MIT Scheme environment. This manual is a basic orientation to the Scheme programming environment, designed for students taking 6.001. It is **highly recommended** that you familiarize yourself with it.
 
-[Guide to MIT Scheme]({{< baseurl >}}/pages/tools/scheme)
+{{< resource_link e07d63ff-9074-9313-2f5a-71b060bf8b4d "Guide to MIT Scheme" >}}
 
 This is the reference manual for MIT Scheme, listing all the commands. You should need to look at this rarely, if at all, for 6.001, since any Scheme features required for the course will be introduced in classes and problem sets.
 

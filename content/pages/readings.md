@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 3c92e5a8-3664-f839-2bbc-765d945469b2
 ---
@@ -17,7 +18,7 @@ MIT Press: [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9
 
 [Full text of SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-38.html)
 
-Downloadable file ([ZIP - 1.2 MB]({{< baseurl >}}/resources/sicp_fulltext)), courtesy of MIT Press and used with permission. (The ZIP file contains: 212 .gif files, 39 .html files, 2 .jpg files, 1 .css file.)
+Downloadable file ({{< resource_link c975ee8b-62d0-1f5e-db5e-d01cd99e08d1 "ZIP - 1.2 MB" >}}), courtesy of MIT Press and used with permission. (The ZIP file contains: 212 .gif files, 39 .html files, 2 .jpg files, 1 .css file.)
 
 {{< tableopen >}}
 {{< theadopen >}}
