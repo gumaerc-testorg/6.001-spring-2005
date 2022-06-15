@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '6A: Streams, Part 1'
 uid: 4deb9a54-f916-9779-0893-87b55bd5135a
 video_files:
@@ -29,3 +30,6 @@ video_metadata:
 **Instructors:** Hal Abelson and Gerald Jay Sussman
 
 Subtitles for this course are provided through the generous assistance of Henry Baker, Hoofar Pourzand, Heather Wood, Aleksejs Truhans, Steven Edwards, George Menhorn, and Mahendra Kumar.
+
+
+

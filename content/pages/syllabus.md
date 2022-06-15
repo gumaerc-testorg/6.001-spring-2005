@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: Syllabus contains course objectives and expected outcomes, learning objectives,
+  and general information about lectures, recitations, tutorials, assignments, grades,
+  policy on collaborative work, and programming laboratory.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 7d6915e0-1c2e-962c-6b9e-b44b100c72cc
 ---
@@ -99,7 +101,7 @@ In previous years, the entire class met twice a week for lectures, in "intimate"
 
 Lectures will be given live on Tuesdays and Thursdays. Most of the lectures will also be available online, but may not (and probably will not) be identical to the live lectures. You should treat these online lectures as a kind of audiovisual textbook - they expand on the material presented in lecture, and as opposed to a live lecture, you can listen to them (if you wish) on your schedule and at your pace.
 
-Lectures are the primary vehicle for introducing and motivating new material, some of which is not in the book. It is essential that you listen to the lectures (whether live - which we prefer - or online), as the recitations will assume you have already heard the material, and will build upon it. The online versions of lectures can be accessed via the 6.001 online tutor system, which will be described in the {{< resource_link 3ff76cf3-a302-fa2c-fde8-aac5357c300b "related resources" >}} section.
+Lectures are the primary vehicle for introducing and motivating new material, some of which is not in the book. It is essential that you listen to the lectures (whether live - which we prefer - or online), as the recitations will assume you have already heard the material, and will build upon it. The online versions of lectures can be accessed via the 6.001 online tutor system, which will be described in the {{% resource_link 3ff76cf3-a302-fa2c-fde8-aac5357c300b "related resources" %}} section.
 
 The first time you use the tutor, it will ask you to register to set up a username and password. Once registered, you will find a button "Choose a Lecture" on the main tutor page that will take you to the lecture page. As well, you can use the "Set Preferences" button to set your choice of how you want to view the lectures. We plan to allow viewing of the lectures by Microsoft® PowerPoint®, as a Javascript™, or as an HTML® presentation. If you prefer not to listen to the audio, the latter two methods also will provide text annotations to go with each slide. Details on the use of the tutor are described below.
 
@@ -117,15 +119,15 @@ Tutorials will be scheduled in your recitation section during the first week of 
 
 ### Course Materials
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262011532) The textbook for the course is: Abelson, Harold, Gerald Jay Sussman, and Julie Sussman. [_Structure and Interpretation of Computer Programs_](https://mitpress.mit.edu/9780262011532). 2nd ed. Cambridge, MA: MIT Press, 1996. ISBN: 9780262011532. The book is also available (without the discount) from the MIT Press bookstore. In addition, an online version is available, and can be found through the link on the {{< resource_link 3c92e5a8-3664-f839-2bbc-765d945469b2 "readings" >}} section.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262011532) The textbook for the course is: Abelson, Harold, Gerald Jay Sussman, and Julie Sussman. [_Structure and Interpretation of Computer Programs_](https://mitpress.mit.edu/9780262011532). 2nd ed. Cambridge, MA: MIT Press, 1996. ISBN: 9780262011532. The book is also available (without the discount) from the MIT Press bookstore. In addition, an online version is available, and can be found through the link on the {{% resource_link 3c92e5a8-3664-f839-2bbc-765d945469b2 "readings" %}} section.
 
 Your major source for subject materials is the 6.001 web page. On it you will find general announcements, a detailed syllabus and lecture schedule, downloadable implementations of Scheme (the programming language used in 6.001) for use on personal computers, copies of the projects, guidelines for preparing homework, specific information associated with each recitation section, and useful documentation.
 
-Included in the {{< resource_link 89775783-1f04-f40c-3f68-ee415df41c28 "tools" >}} section (under "Scheme documentation") is the document: "Don't Panic: An Introductory Guide to the 6.001 Computer System." **You should browse through this handy reference manual before going to the lab**, as it provides useful descriptions of the 6.001 system, Scheme and Edwin (an Emacs-like editor used in 6.001). It also contains useful information about how to use the 6.001 lab.
+Included in the {{% resource_link 89775783-1f04-f40c-3f68-ee415df41c28 "tools" %}} section (under "Scheme documentation") is the document: "Don't Panic: An Introductory Guide to the 6.001 Computer System." **You should browse through this handy reference manual before going to the lab**, as it provides useful descriptions of the 6.001 system, Scheme and Edwin (an Emacs-like editor used in 6.001). It also contains useful information about how to use the 6.001 lab.
 
 ### Assignments
 
-Problem sets are released weekly, onto the 6.001 online tutor system. This tutor is found by clicking the appropriate link in the {{< resource_link 3ff76cf3-a302-fa2c-fde8-aac5357c300b "related resources" >}} section.
+Problem sets are released weekly, onto the 6.001 online tutor system. This tutor is found by clicking the appropriate link in the {{% resource_link 3ff76cf3-a302-fa2c-fde8-aac5357c300b "related resources" %}} section.
 
 Each problem set will include questions intended to reinforce the material covered by the lectures. This includes two different types of problems. Some are short "finger exercises" intended to directly reinforce material from the each lecture. Others are longer problems intended to allow you to explore ideas introduced in the lecture. These problems are due on the date listed, typically Tuesday at midnight.
 
@@ -236,7 +238,7 @@ The laboratory facility for 6.001 contains 40 personal computers (donated to MIT
 
 The 6.001 laboratory is staffed by undergraduate lab assistants (LA's) who are there to help with the assignments and answer questions about the system. Perhaps more so than the availability of machines, a key benefit to your working in or visiting the lab is the opportunity to get help from the lab assistants. Lab coverage hours will be posted. Please do not attempt to cajole lab assistants into staying beyond these hours - they work long hours as it is, and they need occasional sleep.
 
-The 6.001 Lab is reserved for the exclusive use of students in 6.001. You'll find it convenient to work here because the Lab Assistants are available to help you, and you can share the warmth and camaraderie of your classmates while you work on problem sets. If you want to use your own computer, the 6.001 staff provides implementations of Scheme for Linux® and Windows® (sorry, no Macs). See the {{< resource_link 89775783-1f04-f40c-3f68-ee415df41c28 "tools" >}} section for software and installation instructions.
+The 6.001 Lab is reserved for the exclusive use of students in 6.001. You'll find it convenient to work here because the Lab Assistants are available to help you, and you can share the warmth and camaraderie of your classmates while you work on problem sets. If you want to use your own computer, the 6.001 staff provides implementations of Scheme for Linux® and Windows® (sorry, no Macs). See the {{% resource_link 89775783-1f04-f40c-3f68-ee415df41c28 "tools" %}} section for software and installation instructions.
 
 The problem sets and projects are designed so that they should run on all of these implementations, and you can move your work between them if you find this useful. For example, you might start problem set at home, then spend some time debugging it in the lab where the Lab Assistants can help you, and then finish things up at home.
 
@@ -250,11 +252,11 @@ You'll find it convenient to work in the 6.001 lab because the lab assistants ar
 
 If you want to use your own computer, the 6.001 staff supports implementations of Scheme on machines running the MIT server-Linux®, GNU/Linux®, Windows® 95, NT, 2000 or XP. We do not support Macintoshes®. Furthermore, if you use the MIT server, you can only run Scheme from an IBM or a Dell computer. Finally, you cannot run Scheme from a dialup MIT server machine. If you have a PC capable of running Scheme, we suggest that you install it there, since it will be convenient for you to work at home. The 6.001 lab is probably the best place to work if you want help, however, since that is staffed by knowledgeable and friendly Lab Assistants.
 
-See the {{< resource_link 89775783-1f04-f40c-3f68-ee415df41c28 "tools" >}} section for software and installation instructions.
+See the {{% resource_link 89775783-1f04-f40c-3f68-ee415df41c28 "tools" %}} section for software and installation instructions.
 
 One way you can use the MIT server as a repository for your own working files, and for transferring the files between the 6.001 Lab and your personal machine. See the 6.001 problem set web pages on the MIT server for information on transferring files.
 
-The 6.001 project code is available in the {{< resource_link 2655e936-78db-5b79-f0ec-b2ec66bfd54b "projects" >}} section. (Most of the problem sets will not require that you load pre-designed code, but the projects will generally build upon code that we provide for you.)
+The 6.001 project code is available in the {{% resource_link 2655e936-78db-5b79-f0ec-b2ec66bfd54b "projects" %}} section. (Most of the problem sets will not require that you load pre-designed code, but the projects will generally build upon code that we provide for you.)
 
 ### Workload
 

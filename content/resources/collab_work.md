@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the general policy adopted for the projects for the
   course.
-file: /media/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/aebf75245c04bb42cd65756bd9e597c6_collab_work.pdf
+file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/aebf75245c04bb42cd65756bd9e597c6_collab_work.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -14,3 +14,5 @@ resourcetype: Document
 title: collab_work.pdf
 uid: aebf7524-5c04-bb42-cd65-756bd9e597c6
 ---
+This file contains the general policy adopted for the projects for the course.
+

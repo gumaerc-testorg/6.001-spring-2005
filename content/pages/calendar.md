@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: Calendar provides information on the lectures, recitations, and quizzes
+  for the course along with the due dates for projects and lecture exercises.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 032c5c9a-f4dd-5a0e-322a-3dff073dfb0c
 ---
