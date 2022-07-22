@@ -6,6 +6,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture3webhand.pdf
 uid: 182629e3-5d88-6325-280d-bc1bb4b5643c
 ---
 This file explains the substitution model to examine two different approaches to create procedures.
-

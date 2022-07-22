@@ -6,6 +6,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture19webhan.pdf
 uid: 5dc6035f-eac9-cfb1-d118-939cba515655
 ---
 This file explains the need to build an interpreter and then explians how to build it?
-

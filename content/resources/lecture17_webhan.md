@@ -7,6 +7,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture17_webhan.pdf
 uid: c81160a3-4be6-184d-2711-df1a3618bb64
 ---
 This file explains how to expand object-oriented systems to deal with hierarchies of objects, to leverage the commonality of methods between different kinds of objects.
-

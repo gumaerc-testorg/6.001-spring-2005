@@ -6,6 +6,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: project2.pdf
 uid: f81cd0de-e5bc-b36b-a476-5e1607734ce6
 ---
 This file provides the guidelines for the project which focuses on the use of higher order procedures, together with data structures.
-

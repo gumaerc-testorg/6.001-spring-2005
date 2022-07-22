@@ -7,6 +7,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture19interco.pdf
 uid: 67cb1175-77f7-deb8-3b9e-86c9071971fa
 ---
 This file contains the code for the following programs: Arithmetic calculator, names, conditionals and if, store operators in the environment, environment as explicit parameter, defining new procedures, and environment model code.
-

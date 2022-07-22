@@ -6,6 +6,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture2lispstor.pdf
 uid: dfd68258-21a8-081a-f7e6-5f7c132ef7f3
 ---
 This file is based on a talk given at the Franz Developer Symposium in Cambridge, MA, on March 25, 2001.
-

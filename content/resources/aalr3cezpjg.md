@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/4d07432cecc9713fab9398f6609f9edf_aAlR3cezPJg.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

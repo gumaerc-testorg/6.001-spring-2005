@@ -6,6 +6,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/zip
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: SICP_fulltext.zip
 uid: c975ee8b-62d0-1f5e-db5e-d01cd99e08d1
 ---
 The ZIP file contains: 212 .gif files, 39 .html files, 2 .jpg files, 1 .css file.
-

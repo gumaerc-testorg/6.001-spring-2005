@@ -5,6 +5,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture19webha2.pdf
 uid: bbcae5e7-3a9c-85e3-b628-ac81afdbb480
 ---
 This file explains environment as an explicit parameter.
-

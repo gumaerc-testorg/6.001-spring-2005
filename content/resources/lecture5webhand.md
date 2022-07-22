@@ -6,6 +6,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture5webhand.pdf
 uid: 1239c384-67fc-8018-b19c-808d121bcf5d
 ---
 This file explains how to build abstractions, namely how to group together pieces of information, or data, into abstract structures.
-

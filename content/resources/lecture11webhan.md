@@ -6,6 +6,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture11webhan.pdf
 uid: 5c18bd89-eb32-0a06-cd11-bba0c2cb49f2
 ---
 This file explains data abstractions, types and aggregate structures to study data abstractions in more depth.
-

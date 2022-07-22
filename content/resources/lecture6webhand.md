@@ -6,6 +6,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture6webhand.pdf
 uid: a4354fe2-74e6-f04b-6a6d-da45c813cc28
 ---
 This file explains how to use different types to design procedures with different kinds of behaviors.
-

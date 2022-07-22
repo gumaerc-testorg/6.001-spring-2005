@@ -7,6 +7,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture22webhan.pdf
 uid: d4d959b3-cc2d-f3f1-2fe9-492adf4421e4
 ---
 This file explains referential transparency (a language with referential transparency means that equal expressions can be substituted for one another without changing the value of the expression.)
-

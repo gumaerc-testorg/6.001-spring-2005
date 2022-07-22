@@ -6,6 +6,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture1webhand.pdf
 uid: a9cbc064-3942-fd9b-956e-0b9c0e6dd3c9
 ---
 This file gives brief introduction about the kind of knowledge that computer science makes available to people.
-

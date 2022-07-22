@@ -6,6 +6,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture13webhan.pdf
 uid: 1b5204cb-6127-9ce5-3069-b4cf00c9538a
 ---
 This file explains how to build more complex data structures, and how to use inductive reasoning to design procedures to manipulate such structures.
-

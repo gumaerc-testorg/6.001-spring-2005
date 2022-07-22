@@ -5,6 +5,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: q2_solns_post.pdf
 uid: 9005b28d-9207-79e4-b16d-35cc96cb4a1a
 ---
 This file contains sample solutions to the quiz 2.
-

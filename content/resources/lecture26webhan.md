@@ -8,6 +8,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 1a7a2b65-b4f8-90d4-6d7c-ebced9ba85d6
 ---
 This file explains the following topics:
 Abstraction, data, state and objects, language design and implementation, mysteries of infinity: countability, the Halting theorem, and recursion.
-

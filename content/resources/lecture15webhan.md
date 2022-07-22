@@ -6,6 +6,7 @@ file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture15webhan.pdf
 uid: 33ed6868-9829-e331-091e-c4c4ab7b7619
 ---
 This file explains a model, that incorporates the substitution model as a piece of it, but also accounts for state, time, context and mutation.
-
