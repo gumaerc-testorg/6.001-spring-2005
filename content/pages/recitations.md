@@ -1,5 +1,14 @@
 ---
 content_type: page
+description: This course is divided into recitation sections of about 30 to 35 students
+  which meet twice per week. The purpose of the recitations is to expand upon course
+  materials covered in lecture and the  supplementary materials and allow students
+  to practice working with the material in an interactive setting. Recitations are
+  the primary source of interaction with the staff. Below is a sampling of the material
+  covered during recitations.
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 27bba2ec-5d35-c02e-e8e1-d54af27a948e
 ---
@@ -133,7 +142,7 @@ In lectures and the text, there are (at least) three fundamentally different pre
     (average guess (/ x guess)))
 
   (define (good-enuf? guess x)  
-    (< (abs (- (square guess) x))  
+    (\< (abs (- (square guess) x))  
        tolerance))
 
   (sqrt-iter 1.0 x))
@@ -152,7 +161,7 @@ In lectures and the text, there are (at least) three fundamentally different pre
 (define (fixed-point f iguess)
 
   (define (close-enough? v1 v2)  
-    (< (abs (- v1 v2)) tolerance))
+    (\< (abs (- v1 v2)) tolerance))
 
   (define (try guess)  
     (display guess) (newline)  
@@ -275,7 +284,7 @@ Note also that each method converges quickly even for much larger arguments:
 Printing Pairs vs Printing Lists
 --------------------------------
 
-Scheme generally prints a pair in the following form: (<car> . <cdr>)  
+Scheme generally prints a pair in the following form: (\<car> . \<cdr>)  
   
 Therefore, assuming we have the function write that can print atoms and character strings, we may write a procedure for printing structures made of pairs as follows:  
   
@@ -345,11 +354,11 @@ Note that what got typed back is not exactly what got typed in. This is a result
   
 The reader understands the purely syntactic rules of Scheme, and can determine whether what the user typed is meant to be a number (as in the above example) or a Boolean value (#t or #f) or a character string ("I am inside double-quote marks".) or a symbol (e.g., + or square). It also knows the syntactic rule for quotation:  
   
-'<anything>  
+'\<anything>  
   
 is read as  
   
-(quote <anything>)  
+(quote \<anything>)  
   
 and it understands the syntax of list structure and dotted-pair notation. Thus,  
   
@@ -398,7 +407,7 @@ Having introduced mutation of data structures, we looked in recitation at how to
   ;; \[task-list, task\] -> ???  
   (define (helper trail l)  
     (cond ((null? l) (set-cdr! trail (list task)))  
-   ((< (task-time task) (task-time (car l)))  
+   ((\< (task-time task) (task-time (car l)))  
     (set-cdr! trail (cons task l)))  
    (else (helper l (cdr l)))))  
   (helper tl (cdr tl))  

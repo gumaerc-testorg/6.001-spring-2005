@@ -1,8 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-001-structure-and-interpretation-of-computer-programs-spring-2005/eb5c655135ce6747691c1c41156f8230_cIc8ZBMcqAc.srt
+file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/eb5c655135ce6747691c1c41156f8230_cIc8ZBMcqAc.srt
 file_type: application/x-subrip
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: eb5c6551-35ce-6747-691c-1c41156f8230
