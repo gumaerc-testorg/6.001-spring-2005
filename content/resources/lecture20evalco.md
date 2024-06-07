@@ -6,6 +6,7 @@ description: 'This file provides code for the following:
   environments, primitive procedures and the initial environment, and the read-eval-print
   loop.'
 file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/01c6ba0c5d426b5459d66340e60eb00f_lecture20evalco.pdf
+file_size: 39128
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

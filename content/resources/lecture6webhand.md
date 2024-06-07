@@ -3,6 +3,7 @@ content_type: resource
 description: This file explains how to use different types to design procedures with
   different kinds of behaviors.
 file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/a4354fe274e6f04b6a6dda45c813cc28_lecture6webhand.pdf
+file_size: 2204388
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
