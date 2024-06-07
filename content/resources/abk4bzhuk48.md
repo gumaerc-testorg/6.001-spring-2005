@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/4c647238df1f6fe17022a01781300d23_AbK4bZhUk48.srt
+file_size: 79756
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
