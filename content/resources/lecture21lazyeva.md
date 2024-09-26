@@ -5,7 +5,7 @@ description: 'This file gives code for the following:
   The core evaluator, representing expressions, representing procedures, representing
   environments, primitive procedures and the initial environment, the read-eval-print
   loop, and representing thunks.'
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/9ec3045d4d325e148571157b4e339bba_lecture21lazyeva.pdf
+file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/9ec3045d4d325e148571157b4e339bba_lecture21lazyeva.pdf
 file_size: 44546
 file_type: application/pdf
 learning_resource_types:
