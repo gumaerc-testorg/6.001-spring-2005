@@ -3,7 +3,7 @@ content_type: resource
 description: This file explains the kinds of procedures which can be built, and how
   different kinds of process evolution can occur, with different demands in terms
   of computational resources.
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/124c1c683236effa0fe4f7d4318ac9b7_lecture4webhand.pdf
+file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/124c1c683236effa0fe4f7d4318ac9b7_lecture4webhand.pdf
 file_size: 1797262
 file_type: application/pdf
 learning_resource_types:
