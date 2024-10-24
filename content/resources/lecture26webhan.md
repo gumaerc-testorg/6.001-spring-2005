@@ -4,7 +4,7 @@ description: 'This file explains the following topics:
 
   Abstraction, data, state and objects, language design and implementation, mysteries
   of infinity: countability, the Halting theorem, and recursion.'
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/1a7a2b65b4f890d46d7cebced9ba85d6_lecture26webhan.pdf
+file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/1a7a2b65b4f890d46d7cebced9ba85d6_lecture26webhan.pdf
 file_size: 81901
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains guidelines to familiarize the reader with the Scheme
   programming environment and the resources available.
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/9025c023232ca403dee7c4732ae3dcdd_project0.pdf
+file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/9025c023232ca403dee7c4732ae3dcdd_project0.pdf
 file_size: 236101
 file_type: application/pdf
 learning_resource_types:

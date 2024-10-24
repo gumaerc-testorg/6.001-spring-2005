@@ -5,7 +5,7 @@ description: This file explains the scheme evaluator, which includes looking at 
   the language, how to create and manipulate the environments, how primitives are
   installed into the initial or global environment and how to put together the overall
   infrastructure for letting a user interact with the evaluator.
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/ab2f4abddef7300c0fb7bde6122bbbe9_lecture20webhan.pdf
+file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/ab2f4abddef7300c0fb7bde6122bbbe9_lecture20webhan.pdf
 file_size: 2721500
 file_type: application/pdf
 learning_resource_types:

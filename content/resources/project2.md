@@ -2,7 +2,7 @@
 content_type: resource
 description: This file provides the guidelines for the project which focuses on the
   use of higher order procedures, together with data structures.
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/f81cd0dee5bcb36ba4765e1607734ce6_project2.pdf
+file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/f81cd0dee5bcb36ba4765e1607734ce6_project2.pdf
 file_size: 209141
 file_type: application/pdf
 learning_resource_types:
