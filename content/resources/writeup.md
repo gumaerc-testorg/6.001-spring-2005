@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the common instructions to write the project.
-file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/0d9fb22cd6d5ea4f087c82a10d971385_writeup.pdf
+file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/0d9fb22cd6d5ea4f087c82a10d971385_writeup.pdf
 file_size: 91240
 file_type: application/pdf
 learning_resource_types:
