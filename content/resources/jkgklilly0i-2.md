@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/01d2ee2e4b2e5c3688ecc00c25719920_JkGKLILLy0I.vtt
+file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/01d2ee2e4b2e5c3688ecc00c25719920_JkGKLILLy0I.vtt
 file_size: 84359
 file_type: application/x-subrip
 learning_resource_types: []

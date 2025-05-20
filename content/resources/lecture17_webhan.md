@@ -3,7 +3,7 @@ content_type: resource
 description: This file explains how to expand object-oriented systems to deal with
   hierarchies of objects, to leverage the commonality of methods between different
   kinds of objects.
-file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/c81160a34be6184d2711df1a3618bb64_lecture17_webhan.pdf
+file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/c81160a34be6184d2711df1a3618bb64_lecture17_webhan.pdf
 file_size: 1741057
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains guidelines to build a project to familiarize students
   with evaluators.
-file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/604c60405af9eec55045ca0531a538bf_project5_eval.pdf
+file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/604c60405af9eec55045ca0531a538bf_project5_eval.pdf
 file_size: 89632
 file_type: application/pdf
 learning_resource_types:

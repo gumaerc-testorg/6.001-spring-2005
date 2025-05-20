@@ -3,7 +3,7 @@ content_type: resource
 description: This file is a revised version of the manual for using Edwin and the
   MIT Scheme environment, which is a basic orientation to the Scheme programming environment,
   designed for students taking 6.001.
-file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/ac0450504ad779ea4c30aa92c459a932_dontpanicnew.pdf
+file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/ac0450504ad779ea4c30aa92c459a932_dontpanicnew.pdf
 file_size: 229127
 file_type: application/pdf
 learning_resource_types:

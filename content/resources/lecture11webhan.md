@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains data abstractions, types and aggregate structures
   to study data abstractions in more depth.
-file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/5c18bd89eb320a06cd11bba0c2cb49f2_lecture11webhan.pdf
+file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/5c18bd89eb320a06cd11bba0c2cb49f2_lecture11webhan.pdf
 file_size: 2262661
 file_type: application/pdf
 learning_resource_types:
