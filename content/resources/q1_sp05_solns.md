@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the sample solutions to problems on procedures, for
   quiz 1.
-file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/10c09cc52e59e1e66ff24f71538214c3_q1_sp05_solns.pdf
+file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/10c09cc52e59e1e66ff24f71538214c3_q1_sp05_solns.pdf
 file_size: 110780
 file_type: application/pdf
 learning_resource_types:
