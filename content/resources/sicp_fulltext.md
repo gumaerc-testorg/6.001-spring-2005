@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The ZIP file contains: 212 .gif files, 39 .html files, 2 .jpg files,
   1 .css file.'
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/c975ee8b62d01f5edb5ed01cd99e08d1_SICP_fulltext.zip
+file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/c975ee8b62d01f5edb5ed01cd99e08d1_SICP_fulltext.zip
 file_size: 1228504
 file_type: application/zip
 learning_resource_types:

@@ -44,7 +44,7 @@
     "website": "6-001-structure-and-interpretation-of-computer-programs-spring-2005"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Exams",
     "Lecture Notes",
     "Projects",
@@ -52,5 +52,6 @@
   ],
   "site_uid": "c6b7f607-91e1-434c-969d-14493b38ce07",
   "site_short_id": "6.001-spring-2005",
+  "site_url_path": "courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005",
   "title": "Course Metadata"
 }
