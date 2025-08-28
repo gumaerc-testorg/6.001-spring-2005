@@ -5,7 +5,7 @@ description: 'This file explains briefly the several methodological aspects of c
   run correctly, writing documentation for the  code, and testing the code. Also it
   highlights some standard practices for each stage, and indicate why these practices
   lead to efficient and effective generation of code.'
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/03e0268a995c2575b1039dd867c8068b_lecture7webhand.pdf
+file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/03e0268a995c2575b1039dd867c8068b_lecture7webhand.pdf
 file_size: 1650133
 file_type: application/pdf
 learning_resource_types:

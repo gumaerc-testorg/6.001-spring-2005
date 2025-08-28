@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file explains a few details that are needed to clean up of implementation.
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/7474a0354208c195ecd2fc1cfac7b7ae_lecture18_webhan.pdf
+file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/7474a0354208c195ecd2fc1cfac7b7ae_lecture18_webhan.pdf
 file_size: 2099357
 file_type: application/pdf
 learning_resource_types:
