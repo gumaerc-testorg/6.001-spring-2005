@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains the role of evaluaton in defining a language and how
   to use evaluaton to design a language?
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/14e15fb3332d103295e8238a6499c17b_lecture23webhan.pdf
+file: /ol-ocw-studio-app/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/14e15fb3332d103295e8238a6499c17b_lecture23webhan.pdf
 file_size: 68464
 file_type: application/pdf
 learning_resource_types:
