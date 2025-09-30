@@ -17,6 +17,6 @@ The materials, including interactive access to the online tutor, are being made 
 
 MIT iCampus, sponsored by Microsoft Research, is aimed at achieving broad, substantial, and sustainable impact on higher education through information technology. iCampus incubates innovations for labs, classrooms, and campus communities at MIT and promotes their dissemination around the world.
 
-*   Learn more about the [EECS XTutor System](http://icampus.mit.edu/xTutor)
-*   Learn more about the [iCampus Outreach Program](http://icampus.mit.edu/outreach)
-*   Learn more about [MIT iCampus](http://icampus.mit.edu/)
+*   Learn more about the {{% resource_link "b3120633-c865-4af3-944d-6da124df697f" "EECS XTutor System" %}}
+*   Learn more about the {{% resource_link "af7d4158-ea4b-47f2-8f3a-19bc6f2a7e7e" "iCampus Outreach Program" %}}
+*   Learn more about {{% resource_link "a6d87faa-e98c-46eb-8805-c2fe15756133" "MIT iCampus" %}}
