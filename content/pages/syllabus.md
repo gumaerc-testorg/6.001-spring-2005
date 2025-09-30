@@ -119,7 +119,7 @@ Tutorials will be scheduled in your recitation section during the first week of 
 
 ### Course Materials
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262011532) The textbook for the course is: Abelson, Harold, Gerald Jay Sussman, and Julie Sussman. [_Structure and Interpretation of Computer Programs_](https://mitpress.mit.edu/9780262011532). 2nd ed. Cambridge, MA: MIT Press, 1996. ISBN: 9780262011532. The book is also available (without the discount) from the MIT Press bookstore. In addition, an online version is available, and can be found through the link on the {{% resource_link 3c92e5a8-3664-f839-2bbc-765d945469b2 "readings" %}} section.
+{{% resource_link "b025a6e1-b7d6-4c36-9ae8-e15ec46c1a7e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} The textbook for the course is: Abelson, Harold, Gerald Jay Sussman, and Julie Sussman. {{% resource_link "b025a6e1-b7d6-4c36-9ae8-e15ec46c1a7e" "_Structure and Interpretation of Computer Programs_" %}}. 2nd ed. Cambridge, MA: MIT Press, 1996. ISBN: 9780262011532. The book is also available (without the discount) from the MIT Press bookstore. In addition, an online version is available, and can be found through the link on the {{% resource_link 3c92e5a8-3664-f839-2bbc-765d945469b2 "readings" %}} section.
 
 Your major source for subject materials is the 6.001 web page. On it you will find general announcements, a detailed syllabus and lecture schedule, downloadable implementations of Scheme (the programming language used in 6.001) for use on personal computers, copies of the projects, guidelines for preparing homework, specific information associated with each recitation section, and useful documentation.
 
